@@ -11,5 +11,6 @@
 <p>haha,it seems like that i'm fail!</p>
 <p>oh...i have a problem with embeding photo...but fine, i gonna try later</p>
 <img scr="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpt1/t31.0-8/11951666_728388543951267_4269310737664013356_o.jpg" width="100" height="50">
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
 </body>
 </html>
